@@ -1,1 +1,1 @@
-﻿Write-Host "Hello World from GitHub via irm | iex"
+Write-Host "Hello World from GitHub via irm | iex"
